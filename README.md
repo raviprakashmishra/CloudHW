@@ -1,5 +1,5 @@
-### CloudHW1 - Map-Reduce program to do some basic algorithms on AWS cloud.
 
+# CloudHW1 - Map-Reduce program to do some basic algorithms on AWS cloud.
 Q.1 - Count one-word frequency as in the wordcount example.
 
 
